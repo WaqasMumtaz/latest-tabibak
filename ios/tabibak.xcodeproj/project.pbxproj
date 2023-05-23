@@ -508,7 +508,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_TEAM = 3L4GZ335GH;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = tabibak/Info.plist;
@@ -548,7 +548,7 @@
 				CODE_SIGN_IDENTITY = "Apple Distribution: Fahad Al Maamari (3L4GZ335GH)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution: Fahad Al Maamari (3L4GZ335GH)";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 3L4GZ335GH;
 				INFOPLIST_FILE = tabibak/Info.plist;

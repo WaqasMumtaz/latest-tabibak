@@ -35,14 +35,14 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>NSAppleMusicUsageDescription</key>
-	<string>This app requires access to the photo library for the user upload image file for profile</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library for the user upload image file for profile photo</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app is use the camera for the image capture by user and update profile image  </string>
 	<key>NSContactsUsageDescription</key>
 	<string>This app require permission to access details </string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>This app can not pick the location</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>AntDesign.ttf</string>
